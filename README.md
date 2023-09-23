@@ -1,5 +1,8 @@
 # Documentacion del proyecto TodoList
  Este proyecto se desarrollara con lenguaje de programacion php y como gestor de Base de Datos el MySQL y un poco de JavaScript,BOSTRAP.
+ USUARIO:ronaldo12roni@gmail.com
+ PASS:cruscaya
+ 
 ## 1. Conexion a la base de datos 
 
 Primero, se establece una conexión a la base de datos MySQL utilizando PHP y la extensión MySQLi. A continuación, se detalla el código relevante:
